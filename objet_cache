@@ -1,0 +1,24 @@
+
+<script type="text/javascript">
+
+// si c'est la première fois que l'on vient ici,
+// un message nous annonce q'un objet est trouvé
+
+if (localStorage["pot_de_terre"]!=true){
+	alert("Hmm .. Vous avez trouvé un pot de terre.");
+}
+
+// on stocke l'objet avec la valeur "true" 
+// pour se souvenir qu'on l'a déjà ramassé
+
+localStorage["pot_de_terre"]=true;
+
+// si tous les objets sont trouvés,
+// afficher un message :
+// "vous avez récuperré les objets, vous pouvez chercher la sortie !"
+
+//
+// à compléter
+//
+
+</script>
