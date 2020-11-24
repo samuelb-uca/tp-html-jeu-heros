@@ -1,0 +1,14 @@
+
+<script type="text/javascript">
+
+// si tous les objets sont trouvés,
+// afficher un message :
+// "vous avez tous les objets, vous avez réussi à sortir, bravo !"
+
+if (localStorage["pot_de_terre"] == true &&
+// à compléter
+){
+	// à compléter
+}
+
+</script>
